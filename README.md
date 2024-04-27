@@ -1,4 +1,4 @@
-![Header](https://github.com/danovoselov/danovoselov/blob/main/assets/github.jpg)
+![Header](https://github.com/danovoselov/danovoselov/blob/master/assets/github.jpg)
 
 [![Telegram](https://img.shields.io/badge/-Telegram-fafafa?style=plastic&logo=Telegram)](https://t.me/novoselov_da)
 
